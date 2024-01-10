@@ -12,3 +12,4 @@ E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debu
 E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.pdb
 E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.genruntimeconfig.cache
 E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ref\ExampleTWO.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.sourcelink.json
