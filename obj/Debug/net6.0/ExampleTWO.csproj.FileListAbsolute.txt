@@ -1,0 +1,14 @@
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\bin\Debug\net6.0\ExampleTWO.exe
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\bin\Debug\net6.0\ExampleTWO.deps.json
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\bin\Debug\net6.0\ExampleTWO.runtimeconfig.json
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\bin\Debug\net6.0\ExampleTWO.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\bin\Debug\net6.0\ExampleTWO.pdb
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.GeneratedMSBuildEditorConfig.editorconfig
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.AssemblyInfoInputs.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.AssemblyInfo.cs
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\refint\ExampleTWO.dll
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.pdb
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ExampleTWO.genruntimeconfig.cache
+E:\mphasis\problem statement\PHASE3\PRACTICE\day4\ExampleTWO\ExampleTWO\obj\Debug\net6.0\ref\ExampleTWO.dll
